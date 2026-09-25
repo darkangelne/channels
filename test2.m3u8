@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:2596
+#EXT-X-DISCONTINUITY-SEQUENCE:10
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:4.004,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-50187-tx/237c3bf2869661e3b82391a0dae6dddc~tplv-tiktokx-origin.image?dr=9636&refresh_token=6ea300e1&x-expires=1790359200&x-signature=M4gcbCvDbkQvLKYk%2Bszc144NUso%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast5
+#EXTINF:4.004,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast8-v-4896-tx2/4cc440a47ebbc652403109da63453317~tplv-tiktokx-origin.image?dr=9636&refresh_token=1a2a2318&x-expires=1790359200&x-signature=V63Z7vQueKN2ob1uw6m8H7Axt1k%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast8
+#EXTINF:4.004,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-50187-tx/992f542e32126916a4c5dda04cae6eb4~tplv-tiktokx-origin.image?dr=9636&refresh_token=e28fd911&x-expires=1790359200&x-signature=5dbQy52GZ9H9jaXsHu6ZAbh6%2FOY%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast5
+#EXTINF:4.004,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast8-v-5300-tx2/91bcd759be4f21fb479b3a351034e9b4~tplv-tiktokx-origin.image?dr=9636&refresh_token=93edd445&x-expires=1790359200&x-signature=7Vgduawyfc9cl%2FCEGEqKU3UeAjE%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast8
