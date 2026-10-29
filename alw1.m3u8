@@ -4,5 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:2596
 #EXT-X-DISCONTINUITY-SEQUENCE:10
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:4.004,
+#EXTINF:4.100,
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:83:28:29&stream=1806744&extension=m3u8&play_token=XbAewZ9cf2
