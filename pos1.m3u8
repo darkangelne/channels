@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://12.dragcdn.win:8080/live/01006942890/156493983021/624920.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:6E:F2&stream=368961&extension=m3u8
