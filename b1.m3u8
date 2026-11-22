@@ -3,4 +3,5 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1020x780,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http:/btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:D9:6F:A6&stream=89275&extension=m3u8&play_token=PyVwGdkuMD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:6E:F2&stream=242283&extension=m3u8&play_token=q1GDFpBCKf
+
